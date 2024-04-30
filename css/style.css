@@ -1,0 +1,76 @@
+body {
+    background: url("../image/background.avif") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium',monospace;
+    color: 	#FFFFFF
+}
+.nav_bar{
+    font-size: 60px;
+    font-weight: bold;
+}
+.nav_text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    margin-top: 30px;
+}
+.row{
+
+}
+.col-6{
+
+}
+.col-3{
+
+}
+.col-md-auto{
+    font-size: 24px;
+    font-weight: bold;
+}
+.photo_text{
+    font-size: 40px;
+    font-weight: bold;
+}
+.my_photo{
+    background: url("../image/q3j1ibbY6MM.jpg") no-repeat center center;
+    background-size: 100%;
+    width: 400px;
+    height: 550px;
+}
+.my_photo_2{
+    background: url("../image/vEGcHZKLlFw.jpg") no-repeat center center;
+    background-size: 110%;
+    width: 400px;
+    height: 550px;
+}
+.nav_logo{
+    background: url("../image/logo3.jpg") no-repeat center center;
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+}
+p {
+    text-indent: 20px;
+}
+.quote{
+    border: none;
+    padding: 10px;
+    margin: 10px 0;
+}
+.quote p{
+    font-size: 25px;
+    font-style: italic;
+}
+.quote footer {
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    text-align: right;
+    font-style: normal;
+    font-weight: bold;
+}
