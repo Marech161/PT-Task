@@ -74,3 +74,22 @@ p {
     font-style: normal;
     font-weight: bold;
 }
+
+.button_js{
+    text-align: center;
+}
+
+#myButton{
+    border: none;
+    border-radius: 20px;
+    width: 300px;
+    height: 120px;
+    background-color: #FFD700;
+    font-size: 25px;
+}
+
+#demo img {
+    margin-top: 20px;
+    width: 400px;
+    height: 400px;
+}
